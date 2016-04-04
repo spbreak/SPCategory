@@ -1,0 +1,25 @@
+{
+  "name": "SPCategory",
+  "version": "0.1.0",
+  "summary": "A short description of SPCategory.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/SPCategory",
+  "license": "MIT",
+  "authors": {
+    "spbreak": "527108411@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/SPCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "SPCategory": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
