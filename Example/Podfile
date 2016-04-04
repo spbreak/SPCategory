@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'SPCategory_Example', :exclusive => true do
+  pod 'SPCategory', :path => '../'
+end
+
+target 'SPCategory_Tests', :exclusive => true do
+  pod 'SPCategory', :path => '../'
+
+  
+end
